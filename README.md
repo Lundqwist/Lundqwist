@@ -14,9 +14,9 @@ Fully remote roles, anywhere in the world:
 
 ## 🛠️ Tech
 
-- **Languages:** C#, C++, HTML/CSS, Pascal
+- **Languages:** C#, C++, HTML/CSS
 - **Frameworks & tools:** .NET, Unity, Git, Visual Studio
-- **Other:** game programming, level design, 2D/3D animation, VR/AR, embedded programming
+- **Other:** game programming, level design, 2D/3D animation, embedded programming
 - **Infrastructure:** Windows Server, Linux, networking
 
 ## 📂 What's here
