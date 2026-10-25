@@ -21,6 +21,7 @@ Fully remote roles, anywhere in the world:
 
 ## 📂 What's here
 
+- **[PersonalSite](https://github.com/Lundqwist/PersonalSite):** the source for [lundqwist.se](https://lundqwist.se), built with ASP.NET Core 8 MVC, Entity Framework Core and MariaDB, with an admin area for editing all content. Self-hosted on a Synology NAS.
 - **Lexicon Full-Stack course projects:** C# console and web applications, including inventory management, asset tracking and a team-built package tracking site
 - More Unity, game development and C++ projects on the way
 
