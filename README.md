@@ -30,4 +30,5 @@ Fully remote roles, anywhere in the world:
 - 🌐 [lundqwist.se](https://lundqwist.se) · [CV](https://lundqwist.se/CV)
 - 💼 [linkedin.com/in/lundqwist](https://linkedin.com/in/lundqwist)
 - ✉️ bjarne@lundqwist.se
+- ☕ [buymeacoffee.com/lundqwist](https://buymeacoffee.com/lundqwist)
 - 🇸🇪 Nässjö, Sweden (CET/CEST) · Swedish & English
