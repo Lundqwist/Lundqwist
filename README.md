@@ -23,7 +23,7 @@ Fully remote roles, anywhere in the world:
 ## 📂 What's here
 
 - **[AI Workbench](https://github.com/Lundqwist/AiProjects):** a Windows program (Python, PySide6) that runs AI entirely on my own PC with Ollama: answers from my own documents with sources, invoice PDFs and photos turned into checked spreadsheet rows, cited research reports from the web, and a voice assistant woken with "Hey Luna" that can run the TV and asks on screen before doing anything more. Test suites with promptfoo.
-- **[PersonalSite](https://github.com/Lundqwist/PersonalSite):** the source for [lundqwist.se](https://lundqwist.se), built with ASP.NET Core 8 MVC, Entity Framework Core and MariaDB, with an admin area for editing all content. Self-hosted on a Synology NAS.
+- **[Website2.0](https://github.com/Lundqwist/Website2.0):** the source for [lundqwist.se](https://lundqwist.se): an ASP.NET Core 8 API with Entity Framework Core and MariaDB and a React (Vite) front end, which also serves the first version of the site (ASP.NET Core MVC, with its admin area) behind a YARP proxy. Self-hosted in Docker on a Synology NAS.
 - **Lexicon Full-Stack course projects:** C# console and web applications, including inventory management, asset tracking and a team-built package tracking site
 - More Unity, game development and C++ projects on the way
 
